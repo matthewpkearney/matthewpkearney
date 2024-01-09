@@ -1,5 +1,4 @@
-# Hello, I'm Matthew Kearney 
-
+# Hello!! 
 ### I am a computer science student based out of NYC with a particular interest in data science, systems engineering, and software development
 
 
