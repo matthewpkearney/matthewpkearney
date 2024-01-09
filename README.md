@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I'm Matthew Kearney 
+
+### I am a computer science student based out of NYC with a particular interest in data science, systems engineering, and software development
+
+
 
 <!--
 **matthewpkearney/matthewpkearney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
