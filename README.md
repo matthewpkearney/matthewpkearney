@@ -1,5 +1,5 @@
 # Hello!! 
-### I am a computer science student based out of NYC with a particular interest in data science, systems engineering, and software development
+### I am a computer science student based out of Jersey City, New Jersey with a particular technical interests in many areas of computer science like machine learning and systems/security, but I also have a great interest in physics and engineering! Outside of the technical sphere, I have a strong personal desire to comment, question, and criticize technological advancements against how it is good for society.
 
 
 
