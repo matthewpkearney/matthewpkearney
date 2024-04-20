@@ -1,5 +1,5 @@
 # Hello!! 
-### I am a computer science student based out of Jersey City, New Jersey with a particular technical interests in many areas of computer science like machine learning and systems/security, but I also have a great interest in physics and engineering! Outside of the technical sphere, I have a strong personal desire to comment, question, and criticize technological advancements against how it is good for society.
+### I am a student at Stevens Institute of Technology studying computer science. I have specific interests in data science, visualization, machine learning, and physics! I am also inclined to critically analyze how modern technological advancements are prepared to change the world for the best and for the worst.
 
 
 
