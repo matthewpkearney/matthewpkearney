@@ -1,6 +1,5 @@
 # Hello!! 
-### I am a student at Stevens Institute of Technology studying computer science. I have specific interests in data science, visualization, machine learning, and physics! I am also inclined to critically analyze how modern technological advancements are prepared to change the world for the best and for the worst.
-
+### I am a student at Stevens Institute of Technology studying computer science. I have specific interests in data science, visualization, machine learning, and physics!
 
 
 <!--
