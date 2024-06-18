@@ -1,5 +1,5 @@
 # Hello!! 
-### I am a student at Stevens Institute of Technology studying computer science. I have specific interests in data science, visualization, machine learning, and physics!
+### 
 
 
 <!--
